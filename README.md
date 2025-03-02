@@ -1,2 +1,1 @@
-# ProgettoPIGDM
-Progetto relativo all'esame di Programmazione di Interfacce Grafiche e Dispositivi Mobili
+Graphical User Interface and Mobile Device Programming exam project.
